@@ -13,4 +13,3 @@ gcc src/main.c src/cartas.c -o super-trunfo
 
 Execute o programa:
 ./super-trunfo
->>>>>>> ccab1c6169675110c88dfe5e0361040b43161390
